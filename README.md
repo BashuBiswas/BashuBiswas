@@ -17,11 +17,11 @@
 
 <br />
 
-Hi,I'm Bashu Biswas🙌, a Full Stack Developer. I recently did my internship with the biggest tourism marketing company in Newfoundland and labrador.
+Hi,I'm Bashu Biswas🙌, a Full Stack Developer. I recently did my internship with the biggest tourism marketing company in Newfoundland and labrador, called Target Marketing and Communications Inc. I am Computer Science graduate Memorial University of Newfoundland and Labrador.
 Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" />
+<img align="right" alt="GIF" src="" />
 
 
 **Talking about Personal Stuffs:**
