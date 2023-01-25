@@ -21,7 +21,7 @@ Hi,I'm Bashu Biswas🙌, a Full Stack Developer. I recently did my internship wi
 Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
 
-<img align="right" alt="GIF" src="<iframe src="https://giphy.com/embed/wwg1suUiTbCY8H8vIA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA">via GIPHY</a></p>" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/glitch-matrix-cat-wwg1suUiTbCY8H8vIA" />
 
 
 **Talking about Personal Stuffs:**
